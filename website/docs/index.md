@@ -7,7 +7,7 @@ hero:
   text: 他是我的一个同学，你们不认识
   tagline: ""
   image:
-    src: /logo.png
+    src: /public/logo.png
     alt: QHY
   actions:
     - theme: brand
